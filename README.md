@@ -1,5 +1,3 @@
-Austine/README.md
-
 I am passionate about utilizing "data and business intelligence" to identify trends and patterns that support "data-driven decision-making".  
 As a ""detail-oriented BI professional & data analyst"", I excel at transforming raw data into "actionable strategies" through in-depth analysis, predictive modeling, and powerful visualization.  
 With a strong analytical mindset, I aim to enhance "business performance" across "retail, sales, finance, and healthcare and more" through "insightful reporting" and "effective data storytelling".
